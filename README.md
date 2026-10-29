@@ -10,6 +10,11 @@
 
 ---
 
+## 📊 Executive Commercial Profitability & Governance Dashboard UI
+![Commercial Profitability Dashboard Preview](assets/dashboard_preview.png)
+
+---
+
 ## Executive Overview
 This project provides an enterprise commercial analytics system designed to identify and eliminate discount leakages, protect gross margins, and align sales rep incentives with company profitability. 
 
