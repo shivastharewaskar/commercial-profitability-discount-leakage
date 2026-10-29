@@ -1,0 +1,9 @@
+product_key,product_name,category,unit_cost,list_price
+101,Enterprise Server Rack X1,Hardware,3200.0,4200.0
+102,Cloud Security Suite Pro,Software,250.0,1200.0
+103,Edge AI Gateway Node,Hardware,850.0,1150.0
+104,Data Analytics Platform (Annual),Software,400.0,2800.0
+105,Implementation & Deployment Pack,Professional Services,1500.0,2200.0
+106,Managed Infrastructure Support (24/7),Professional Services,1800.0,3100.0
+107,Industrial IoT Sensor Hub,Hardware,420.0,540.0
+108,Cyber Threat Scanner (Endpoint),Software,80.0,450.0
